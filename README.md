@@ -1,4 +1,4 @@
-![banner](https://res.cloudinary.com/jimmysong/image/upload/v1594445787/images/github-banner.jpg)
+![banner](https://raw.githubusercontent.com/lilinji/lilinji/master/kbcon.png)
 
 👉 [https://cloudnative.to](https://cloudnative.to)
 
